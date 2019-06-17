@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/testeav3.dir/main.cpp.o  -o testeav3 

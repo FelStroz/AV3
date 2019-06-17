@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bluelab-29/CLionProjects/testeav3/main.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdbool.h
+-
+iostream
+-
+sstream
+-
+
